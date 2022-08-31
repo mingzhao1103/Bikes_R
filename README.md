@@ -15,6 +15,6 @@
   - **Linear Regression with Polynomial Trends and Auto-Correlated Errors**
 - Conclusion  
 
-#### HTML Preview
+#### PDF Preview
 
 https://github.com/mingzhao1103/R_Bikes/blob/main/report.pdf
