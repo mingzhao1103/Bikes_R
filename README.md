@@ -7,7 +7,7 @@
 #### Outline
 
 - Introduction
-- Proposed Method
+- Proposed Methods
 - Simulation Study
 - Real Data Study
   - **Linear Regression**
