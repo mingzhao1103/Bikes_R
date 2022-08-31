@@ -17,4 +17,4 @@
 
 #### HTML Preview
 
-https://htmlpreview.github.io/?https://github.com/mingzhao1103/R_Bikes/blob/main/report.html
+https://github.com/mingzhao1103/R_Bikes/blob/main/report.pdf
