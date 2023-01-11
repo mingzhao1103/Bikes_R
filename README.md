@@ -2,7 +2,7 @@
 
 #### Project Goal 
 
-- To predict the number of bikes that will be rented on any given day using Linear Regression and Time Series Analysis.
+- To predict the number of bikes that will be rented on any given day using Linear Regression as well as Time Series Analysis.
 
 #### Outline
 
